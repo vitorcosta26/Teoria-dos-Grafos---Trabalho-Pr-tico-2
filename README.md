@@ -29,3 +29,7 @@ Passado um usuário dentro do escopo utilizado (612) com prefixo "User" o sistem
 ### Resultado: 
 ![exemplo](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/exemplo.png)  
 - Após a digitação do usuário desejado, nosso sistema irá fazer as devidas análises e retornar para Usuário 10 filmes que mais foram vistos por outros usuários em comum.
+
+### Até a proxima!
+![seeya](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/seeya.gif)  
+
