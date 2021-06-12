@@ -10,4 +10,19 @@ Passado um usuário dentro do escopo utilizado (612) com prefixo "User" o sistem
 
 
 ## Como rodar o sistema
+- Se estiver pelo Colab executar toda as células que estão presentes dentro da célula abaixo: 
+![main](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/sistema.png)  
+- Se não for o caso, executar todos as células manualmente até a célula Executar  
+![executar](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/executar2.png)  
 
+- Quando estiver nesta parte do código:  
+![sistema](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/executar.png)  
+- Se todos os passos tiverem sidos feitos corretamente, irá pedir no console o nome do usuário desejado a recomendar, nossa database é constituída de 612 usuários todos com a formatação "User"+(número do usuário(1-612)) 
+### Exemplo:  
+- User312
+- User125
+- User18
+
+### Resultado: 
+![exemplo](https://github.com/vitorcosta26/Teoria_dos_Grafos-Trabalho-Pratico_2/blob/main/to_readme/exemplo.png)  
+- Após a digitação do usuário desejado, nosso sistema irá fazer as devidas análises e retornar para Usuário 10 filmes que mais foram vistos por outros usuários em comum.
